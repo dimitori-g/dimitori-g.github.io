@@ -1,2 +1,2 @@
 # kanji-san.github.io
-my homepage
+https://kanji-san.github.io/index.html
